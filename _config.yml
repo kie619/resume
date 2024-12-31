@@ -1,6 +1,6 @@
 # Site settings
 title: "曾钰棋-KIE Resume "
-description: "A resume template for Jekyll and GitHub Pages sites."
+description: "关于曾钰棋KIE的个人资历简介"
 
 # Build settings
 markdown: kramdown
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "KKKIE"
-resume_title:                   "掂过碌蔗"
+resume_name:                    "KIE ZENG"
+resume_title:                   "@掂过碌蔗"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "619kie@gmail.com"
