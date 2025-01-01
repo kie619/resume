@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "KIE ZENG"
+resume_name:                    "曾钰棋 - KIE ZENG"
 resume_title:                   "@掂过碌蔗"
 
 # used for the contact button in _layouts/resume.html
@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>不会滑雪的潜水教练不是一个好的交易员</p>"
+resume_header_intro: "<p>         不会滑雪的潜水教练不是一个好的交易员</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
